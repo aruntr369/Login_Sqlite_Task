@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/LoginSqliteTask/app/src/main/res/drawable/ic_baseline_all_inclusive_24.xml" value="0.1275" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/LoginSqliteTask/app/src/main/res/drawable/ic_baseline_dialpad_24.xml" value="0.1275" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/LoginSqliteTask/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/LoginSqliteTask/app/src/main/res/layout/activity_sign_up.xml" value="0.16844805472424113" />
       </map>
